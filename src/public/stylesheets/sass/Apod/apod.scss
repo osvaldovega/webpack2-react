@@ -1,0 +1,33 @@
+.Apod {
+  width: 50%;
+  margin: auto;
+  padding: 5px;
+  color: #80ffff;
+  text-align: left;
+
+  & > label {
+    font-size: 14px;
+  }
+
+  & > img, iframe {
+    display: block;
+    margin: 5px auto;
+    width: 100%;
+    height: 50%;
+    box-shadow: 0 0 10px #99ebff;
+  }
+
+  & > iframe {
+    height: 300px;
+  }
+
+  & > figcaption {
+    text-align: justify;
+    font-size: 14px;
+  }
+
+  & > span {
+    font-style: italic;
+    font-size: 12px;
+  }
+}

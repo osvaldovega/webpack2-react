@@ -1,0 +1,14 @@
+.Header {
+	background-color: transparen;
+	padding: 20px;
+	width: 100%;
+	min-width: 660px;
+	box-sizing: border-box;
+
+	& > img {
+		width: 10%;
+		min-width: 150px;
+		height: 80px;
+		transform: rotate(15deg);
+	}
+}

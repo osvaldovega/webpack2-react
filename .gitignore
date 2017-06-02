@@ -1,0 +1,14 @@
+#Ignore node modules
+/node_modules/
+
+#Ignore dist folder
+/dist/
+
+#Ignore debug log
+npm-debug.log
+
+# Ignore .DS_Store
+.DS_Store
+
+# Ignore package-lock.json
+package-lock.json
