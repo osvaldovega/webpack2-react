@@ -1,4 +1,4 @@
-// React and Redux Imports
+// React Import
 import React from 'react';
 import ReactDOM from 'react-dom';
 

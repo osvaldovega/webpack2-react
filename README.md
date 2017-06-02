@@ -1,7 +1,7 @@
 # Webpack2_ReactJs
 Webpack 2 split in multiple config files and ReactJs
 
-This is a simple example of ReactJS using Redux Thunk and Redux Saga
+This is a simple example of ReactJS
 
 # Getting started
 
